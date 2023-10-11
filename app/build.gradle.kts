@@ -45,5 +45,7 @@ dependencies {
     implementation("de.hdodenhof:circleimageview:3.0.1")
     //Picasso para poder mostrar imagenes de internet
     implementation("com.squareup.picasso:picasso:2.8")
+    //esta es la implemetacion para lottie splash scren
+    implementation("com.airbnb.android:lottie:6.1.0")
 }
 
